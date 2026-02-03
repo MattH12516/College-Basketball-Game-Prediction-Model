@@ -28,6 +28,10 @@ ETE
 
 1. **Clone the repository:**
 ```bash
+git clone https://github.com/YOUR_ACTUAL_USERNAME/cbb-prediction-model.git
+cd cbb-prediction-model
+```
+
 
 2. **Install required packages:**
 ```bash
