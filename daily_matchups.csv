@@ -1,0 +1,63 @@
+game_id,home_team,away_team,game_time,venue,neutral_site,game_status
+401809355,VMI,Wofford,2026-02-04 06:00 PM,Cameron Hall,False,Scheduled
+401809354,UNC Greensboro,Western Carolina,2026-02-04 06:00 PM,First Horizon Coliseum,False,Scheduled
+401823936,UNC Asheville,USC Upstate,2026-02-04 06:30 PM,Kimmel Arena,False,Scheduled
+401822929,Villanova,Seton Hall,2026-02-04 06:30 PM,Finneran Pavilion,False,Scheduled
+401808655,Appalachian St.,South Alabama,2026-02-04 06:30 PM,Holmes Convocation Center,False,Scheduled
+401827661,Houston,UCF,2026-02-04 07:00 PM,Fertitta Center,False,Scheduled
+401825493,Minnesota,Michigan St.,2026-02-04 07:00 PM,Williams Arena,False,Scheduled
+401820718,Louisville,Notre Dame,2026-02-04 07:00 PM,KFC Yum! Center,False,Scheduled
+401828676,American,Bucknell,2026-02-04 07:00 PM,Bender Arena,False,Scheduled
+401828412,Saint Joseph's,George Washington,2026-02-04 07:00 PM,Michael J. Hagan '85 Arena,False,Scheduled
+401828411,George Mason,Duquesne,2026-02-04 07:00 PM,EagleBank Arena,False,Scheduled
+401828212,South Florida,UTSA,2026-02-04 07:00 PM,Yuengling Center,False,Scheduled
+401828210,Florida Atlantic,Tulsa,2026-02-04 07:00 PM,Eleanor R. Baldwin Arena,False,Scheduled
+401826821,Colgate,Army,2026-02-04 07:00 PM,Cotterell Court,False,Scheduled
+401823937,Radford,Winthrop,2026-02-04 07:00 PM,The Dedmon Center,False,Scheduled
+401823935,Gardner Webb,Longwood,2026-02-04 07:00 PM,Paul Porter Arena,False,Scheduled
+401823934,High Point,Charleston Southern,2026-02-04 07:00 PM,Qubein Center,False,Scheduled
+401822931,Providence,Butler,2026-02-04 07:00 PM,Amica Mutual Pavilion,False,Scheduled
+401820202,Loyola MD,Lehigh,2026-02-04 07:00 PM,Reitz Arena,False,Scheduled
+401820170,Lafayette,Navy,2026-02-04 07:00 PM,Kirby Sports Center,False,Scheduled
+401818409,South Dakota St.,St. Thomas,2026-02-04 07:00 PM,First Bank & Trust Arena,False,Scheduled
+401817655,Purdue Fort Wayne,Youngstown St.,2026-02-04 07:00 PM,Memorial Coliseum (IN),False,Scheduled
+401817654,Cleveland St.,Oakland,2026-02-04 07:00 PM,Wolstein Center,False,Scheduled
+401817652,Robert Morris,Wright St.,2026-02-04 07:00 PM,UPMC Events Center,False,Scheduled
+401817651,Northern Kentucky,Green Bay,2026-02-04 07:00 PM,Truist Arena,False,Scheduled
+401809353,East Tennessee St.,Furman,2026-02-04 07:00 PM,Freedom Hall (TN),False,Scheduled
+401808661,Old Dominion,Louisiana Monroe,2026-02-04 07:00 PM,Chartway Arena,False,Scheduled
+401808660,Marshall,Southern Miss,2026-02-04 07:00 PM,Cam Henderson Center,False,Scheduled
+401808659,James Madison,Louisiana,2026-02-04 07:00 PM,Atlantic Union Bank Center,False,Scheduled
+401808658,Georgia St.,Troy,2026-02-04 07:00 PM,GSU Convocation Center,False,Scheduled
+401808657,Georgia Southern,Texas St.,2026-02-04 07:00 PM,Jack and Ruth Ann Hill Convocation Center,False,Scheduled
+401808656,Coastal Carolina,Arkansas St.,2026-02-04 07:00 PM,The HTC Center,False,Scheduled
+401808215,Alabama,Texas A&M,2026-02-04 07:00 PM,Coleman Coliseum,False,Scheduled
+401804916,Delaware,Liberty,2026-02-04 07:00 PM,Bob Carpenter Center,False,Scheduled
+401858697,Northwestern St.,East Texas A&M,2026-02-04 07:30 PM,Prather Coliseum,False,Scheduled
+401828209,Wichita St.,Charlotte,2026-02-04 07:30 PM,Charles Koch Arena,False,Scheduled
+401827099,Grambling St.,Arkansas Pine Bluff,2026-02-04 07:30 PM,Fredrick C. Hobdy Assembly Center,False,Scheduled
+401822930,Georgetown,Creighton,2026-02-04 07:30 PM,Capital One Arena,False,Scheduled
+401807724,Central Arkansas,North Alabama,2026-02-04 07:30 PM,Farris Center,False,Scheduled
+401804915,Middle Tennessee,FIU,2026-02-04 07:30 PM,Murphy Center,False,Scheduled
+401804913,Sam Houston St.,UTEP,2026-02-04 07:30 PM,Bernard G. Johnson Coliseum,False,Scheduled
+401804912,Louisiana Tech,New Mexico St.,2026-02-04 07:30 PM,Thomas Assembly Center,False,Scheduled
+401828211,Rice,North Texas,2026-02-04 08:00 PM,Tudor Fieldhouse,False,Scheduled
+401827660,Baylor,Colorado,2026-02-04 08:00 PM,Foster Pavilion,False,Scheduled
+401823048,South Carolina St.,Maryland Eastern Shore,2026-02-04 08:00 PM,Smith-Hammond-Middleton Memorial Center,False,Scheduled
+401820717,California,Georgia Tech,2026-02-04 08:00 PM,Haas Pavilion,False,Scheduled
+401818408,Kansas City,South Dakota,2026-02-04 08:00 PM,Swinney Center,False,Scheduled
+401817653,Milwaukee,Detroit Mercy,2026-02-04 08:00 PM,UW-Milwaukee Panther Arena,False,Scheduled
+401807723,Austin Peay,Lipscomb,2026-02-04 08:00 PM,F&M Bank Arena,False,Scheduled
+401825492,Illinois,Northwestern,2026-02-04 09:00 PM,State Farm Center,False,Scheduled
+401827662,Oklahoma St.,BYU,2026-02-04 09:00 PM,Gallagher-Iba Arena,False,Scheduled
+401827663,Utah,Arizona St.,2026-02-04 09:00 PM,Jon M. Huntsman Center,False,Scheduled
+401808216,Kentucky,Oklahoma,2026-02-04 09:00 PM,Rupp Arena,False,Scheduled
+401829227,Portland,Gonzaga,2026-02-04 10:00 PM,Chiles Center,False,Scheduled
+401820720,Stanford,Clemson,2026-02-04 10:00 PM,Maples Pavilion,False,Scheduled
+401829231,Pacific,Santa Clara,2026-02-04 10:00 PM,Alex G. Spanos Center,False,Scheduled
+401829230,Saint Mary's,San Diego,2026-02-04 10:00 PM,University Credit Union Pavilion,False,Scheduled
+401829229,Seattle,Pepperdine,2026-02-04 10:00 PM,Redhawk Center,False,Scheduled
+401829228,San Francisco,Loyola Marymount,2026-02-04 10:00 PM,The Sobrato Center,False,Scheduled
+401829337,New Mexico,Utah St.,2026-02-04 11:00 PM,The Pit,False,Scheduled
+401829232,Oregon St.,Washington St.,2026-02-04 11:00 PM,Gill Coliseum,False,Scheduled
+401825494,Washington,Iowa,2026-02-04 11:00 PM,Alaska Airlines Arena,False,Scheduled
